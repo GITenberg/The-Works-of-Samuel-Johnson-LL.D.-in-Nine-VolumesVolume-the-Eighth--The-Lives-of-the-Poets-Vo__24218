@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/297
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24218#The-Works-of-Samuel-Johnson-LL.D.-in-Nine-VolumesVolume-the-Eighth--The-Lives-of-the-Poets-Vo_
 gutenberg_issued: '2008-01-08'
 gutenberg_type: Text
 identifiers:
